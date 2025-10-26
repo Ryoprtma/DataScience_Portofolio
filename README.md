@@ -13,4 +13,8 @@ Link Google Colab : https://colab.research.google.com/drive/1JMcMt5lQ5S4k-C3qL-C
 Link Dataset : https://www.kaggle.com/datasets/muhammadikhwankhalid/data-penyakit-pada-tanaman/data 
 
 # Proyek 3 
+Judul : Sistem Pendeteksi Jemuran Otomatis 
+Link Tincercad : https://www.tinkercad.com/things/k8C7Gl1egCa-fp-jemuran-otomatis/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits 
+
+# Proyek 4 
 
